@@ -4,7 +4,7 @@ HTML과 CSS만을 활용한 레이아웃 프로젝트. (javascript 🙅🏻‍�
 
 flex속성을 연습하기 위해 진행.
 
-![](/Users/jngmnghn/Documents/Study/Inflearn/css/flex/flex-grid-intro.png)
+![](./flex-grid-intro.png)
 
 **프로젝트 구조**
 
