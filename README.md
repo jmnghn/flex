@@ -33,35 +33,33 @@ index.html
 **구현기능**
 
 - 메뉴 
-    
+  
     - 마우스 오버시 메뉴크기 및 색상 변경 애니메이션.
     
         ![](./readme/gif/menu.gif)
 
 - 불릿리스트
-    
+  
     - 불릿을 제외한 텍스트의 앞끝정렬
     
-        <img src="./readme/bullet-list.png" width="300px" />
-    
-    
+        <img src="./readme/bullet-list.png" width="250px" />
     
 - 친구리스트/메시지리스트
     - 프로필이미지/텍스트 중앙정렬
-    
+
     - 넘치는 텍스트 `…` 처리
-    
-        <img src="./readme/friend-list.png" style="zoom:33%;" />
-    
+        <img src="./readme/friend-list.png"  width="250px" />
+
+
 - 카드리스트
     - 카드이미지 중앙정렬
     - 카드내용 컨텐츠에 맞게 크기 조정
     
 - 모달
-    
+  
     - 모달 toggle - css로만 구현 실습
     
-        <img src="./readme/gif/css-modal.gif" style="zoom:50%;" />
+        <img src="./readme/gif/css-modal.gif"  width="300px" />
     
 - 페이지
     - 반응형 구현
