@@ -83,6 +83,4 @@ index.html
 
 
 
-
-
-![](./flex-grid-intro.png)http://flex-grid.s3-website.ap-northeast-2.amazonaws.com/
+🔗 http://flex-grid.s3-website.ap-northeast-2.amazonaws.com/
