@@ -28,6 +28,7 @@ index.html
 - 전체 레이아웃에 적용하는 css와 컴포넌트에 적용하는 css을 나눠 작성.
     - style.css : 컴포넌트별 css 모음
     - style-page.css : 전체 레이아웃에 필요한 css
+    - *-grid.css : grid 속성을 이용한 css 모음
     - 외 reset.css
 
 **구현기능**
