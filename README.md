@@ -40,7 +40,7 @@ index.html
     - 불릿을 제외한 텍스트의 앞끝정렬
     
     <img src="./readme/bullet-list.png" style="zoom:40%;" />
-    ![](./readme/bullet-list.png | width=300)
+![](./readme/bullet-list.png){:width="300px"}
     
 - 친구리스트/메시지리스트
     - 프로필이미지/텍스트 중앙정렬
