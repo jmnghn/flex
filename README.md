@@ -80,7 +80,7 @@ index.html
         
                 ![](./readme/gif/responsive.gif)
     
-- IE 에러 대응
+- ~~IE 에러 대응~~
 
 
 
