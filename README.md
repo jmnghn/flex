@@ -2,11 +2,11 @@
 
 ### CSS flex 속성을 활용한 Layout.
 
-HTML과 CSS를 활용한 레이아웃 프로젝트. (javascript 🙅🏻‍♂️)
+HTML과 CSS flex를 활용한 레이아웃 프로젝트. (javascript 🙅🏻‍♂️)
 
 flex속성을 연습하기 위해 진행.
 
-![](./flex-grid-intro.png)
+
 
 **프로젝트 구조**
 
@@ -80,3 +80,9 @@ index.html
                 ![](./readme/gif/responsive.gif)
     
 - IE 에러 대응
+
+
+
+
+
+![](./flex-grid-intro.png)http://flex-grid.s3-website.ap-northeast-2.amazonaws.com/
