@@ -57,7 +57,7 @@ index.html
     
 - 모달
   
-    - 모달 toggle - css로만 구현 실습
+    - 모달 toggle - css로 구현 실습
     
         <img src="./readme/gif/css-modal.gif"  width="300px" />
     
